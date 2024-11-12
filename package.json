@@ -5,5 +5,8 @@
   "scripts": {},
   "keywords": [],
   "author": "https://github.com/leishanglin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "hexo": "^7.3.0"
+  }
 }
